@@ -2,6 +2,7 @@
 
 Repositorio con ejercicios para practicar comandos básicos de git
 MODIFIQUE ESTA LINEA
+Y esta linea desde charlas
 ## Qué podemos hacer
 
 ### Commits
